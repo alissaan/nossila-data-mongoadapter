@@ -1,0 +1,1 @@
+# nossila-data-mongoadapter
